@@ -21,6 +21,7 @@ export 'package:charts_common/common.dart'
         pointSymbolRendererFnKey,
         pointSymbolRendererIdKey,
         rendererIdKey,
+        AnnotationSegment,
         AnnotationLabelAnchor,
         AnnotationLabelDirection,
         AnnotationLabelPosition,
